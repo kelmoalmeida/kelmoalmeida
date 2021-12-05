@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kelmoalmeida
+- 🌱 I’m currently learning Probability, Data Science and Python.
+- 📫 How to reach me: almeida.kelmo@gmail.com
