@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kelmoalmeida
-- 🌱 I’m currently learning Probability, Data Science and Python.
+- 🌱 I’m currently studying Data Science at IMD/UFRN
 - 📫 How to reach me: almeida.kelmo@gmail.com
