@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @kelmoalmeida
-- 🌱 I’m currently studying Data Science at IMD/UFRN
-- 📫 How to reach me: almeida.kelmo@gmail.com
+- 📫 You can reach me at: almeida.kelmo@gmail.com
